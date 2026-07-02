@@ -1,0 +1,6 @@
+{
+  "name": "Layette JoliBB",
+  "description": "Maquette e-commerce responsive pour Layette JoliBB, boutique d'articles de naissance à Douala, Cameroun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
